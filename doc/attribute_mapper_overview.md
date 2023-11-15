@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In the UnifySDK, Attribute Mapper is a component that offers a text file based system
+Todd In the UnifySDK, Attribute Mapper is a component that offers a text file based system
 that allows to define Attribute relations, allowing automatic rules and
 attribute manipulations using assignments based on text script files.
 
